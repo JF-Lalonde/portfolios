@@ -3,6 +3,7 @@
 ## Area of Emphasis
 
 What do you want to focus on this inning? What do you hope to accomplish by graduation?
+* I want to focus on Node and cloud infrastructure. By graduation I want to have a working cloud network running off of multiple Raspberry Pis.
 
 ## Assessment
 
@@ -19,8 +20,10 @@ N/A
 Include a reflection answering the following questions:
 
 * What was your biggest technical challenge?
+  * I thought the front end would be the biggest challenge but Node being so new proved to be a little tricky to get used to. The hardest part was getting everything working in production.
 
 * How did you solve that challenge? What was your approach?
+  * Troubleshooting in production took a lot of effort.
 
 * What did you like the most about the challenge?
 
